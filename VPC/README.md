@@ -70,6 +70,8 @@ Deploy basic infrastructure on AWS using Terraform. The architecture includes pu
 
 By the end of this lab, a fully functional VPC environment should be deployed on AWS with appropriate public and private subnets, internet access, and routing configurations.
 
+![AWS VPC Diagram](img/aws-vpc.png)
+
 ## Additional Resources
 
 - [Lab Reference](https://github.com/btkrausen/hashicorp/blob/master/terraform/Hands-On%20Labs/Section%2002%20-%20Understand%20IAC%20Concepts/02%20-%20Benefits_of_Infrastructure_as_Code.md)
